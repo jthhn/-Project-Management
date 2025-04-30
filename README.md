@@ -12,7 +12,7 @@ Dockerized and ready for production!
 - Django REST Framework (DRF)
 - PostgreSQL 14
 - Simple JWT Authentication
-- Docker & Docker Compose
+- Docker & Docker Composemanagement-
 - Swagger / OpenAPI Documentation
 - Django Filter (for task filtering)
 
@@ -37,6 +37,6 @@ Dockerized and ready for production!
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/project-management-api.git
+git clone https://github.com/jthhn/-Project-Management.git
 cd project-management-api
 
